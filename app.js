@@ -51,6 +51,58 @@
 
 //Question no 6
 
+// let firstName1 = prompt("Enter your First Name");
+// let lastName2 = prompt("Enter your Last Name");
+
+// let fullName2 = ( firstName1.concat(lastName2));
+
+// document.write(`Hello ! ${fullName2}`);
 
 
 
+//Question no 7
+
+// const city = "Hyderabad";
+
+// document.write(`City: ${city} <br>
+// After Replacement: ${city.replace("Hyder" , "Islam")}`);
+
+
+//Question no 8
+
+// const message="Ali and Sami are best friends. They play cricket and football together.";
+
+// document.write(message.replaceAll("and" , "&"))
+
+
+//Question no 9
+
+// let num1 = "472";
+// let num2 = parseInt("472");
+
+// document.write(`Number: ${num1}<br> Type: ${typeof(num1)}<br>`);
+// document.write(`Number: ${num2}<br> Type: ${typeof(num2)}`);
+
+
+
+//Question no 10
+
+
+
+
+
+//Question no 11
+
+// let userInput=prompt("Enter anything");
+// document.write(userInput.toUpperCase());
+
+//Question no 12
+
+// let userInput2 = prompt("Enter anything");
+// document.write(userInput2.toLowerCase());
+
+
+//Question no 13
+
+let language= "javascript";
+document.write(language);
